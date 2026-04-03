@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Environmental scientist using remote sensing and bioinformatics to study plant communities and biodiversity"
 author_profile: true
 redirect_from: 
   - /about/
