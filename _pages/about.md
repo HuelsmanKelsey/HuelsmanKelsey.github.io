@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Environmental scientist using remote sensing and bioinformatics to study plant communities and biodiversity"
+title: "studying plant communities and biodiversity using remote sensing and bioinformatics"
 author_profile: true
 redirect_from: 
   - /about/
