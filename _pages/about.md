@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "studying plant communities and biodiversity using remote sensing and bioinformatics"
+title: "about me"
 author_profile: true
 redirect_from: 
   - /about/
